@@ -1,0 +1,12 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building project...'",
+    "test": "echo 'Running tests...' && exit 0",
+    "deploy": "echo 'Deploying project...'"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
